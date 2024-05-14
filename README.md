@@ -22,4 +22,4 @@ Jika Anda ingin berkontribusi pada pengembangan Pomodoro Colcok, silakan kirimka
 Pomodoro Colcok didistribusikan di bawah Lisensi MIT. Lihat file `LICENSE` untuk informasi lebih lanjut.
 
 ## Kontak
-Jika Anda memiliki pertanyaan atau masukan, jangan ragu untuk menghubungi kami melalui email di [email@example.com](mailto:email@example.com).
+Jika Anda memiliki pertanyaan atau masukan, jangan ragu untuk menghubungi kami melalui email di [email@example.com](alghifary.ar@gmail.com).
